@@ -14,7 +14,7 @@
             <repository>
                <id>github</id>
 		<name>GitHub Packages</name>
-		<url>https://maven.pkg.github.com/balaavekshaa/testing</url>
+		<url>https://maven.pkg.github.com/thrinatha/testing</url>
             </repository>
         </repositories>
     </profile>
@@ -94,7 +94,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/balaavekshaa/testing</url>
+			<url>https://maven.pkg.github.com/thrinatha/testing</url>
 		</repository>
 	</distributionManagement>
     
